@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Internet debe mantenerse libre: ¿Qué hace Mozilla por la Neutralidad de la Red?",
+    "packageVersion": "0.0.1",
+    "revealTheme": "simple",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
